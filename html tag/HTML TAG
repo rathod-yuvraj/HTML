@@ -27,7 +27,7 @@ HTML TAG	WHAT IT DOES
 <code>	              The code tag is used to define a reference or piece of code embedded on a page. However, using CSS might help the author enhance the piece of text more efficiently.
 <col>              	The column tag specifies styles for the cells of the table within a colgroup tag. The column tag is used to apply styles to entire columns, instead of repeating the styles for each cell, for each row.
 <colgroup>              	The colgroup tag specifies styles for the columns in a table for formatting. Specifies a group of one or more columns in a table for formatting.
-<datalist>	         The datalist tag specifies a list of pre-defined options for an input element. Using autocomplete feature, it hints to the user the values in the drop down.
+<datalist>	The datalist tag specifies a list of pre-defined options for an input element. Using autocomplete feature, it hints to the user the values in the drop down.
 <dd>              	In HTML5, the dd tag is used to describe a term/name in a description list. This tag is used in conjunction with dl (description list) and dt (defines terms).
 <del>              	The del tag defines text that has been deleted from a document. It marks changes or modifications that have occurred in the document.
 <dfn>              	The dfn tag is a phrase tag. It defines a definition term.
